@@ -1,0 +1,4 @@
+---
+app_environment: development
+classes:
+  - hello-world
